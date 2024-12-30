@@ -13,5 +13,5 @@ Delete a Task: Click on the task that is completed and it will be removed
 
 Technologies Used
 React: Component-based UI library for building the app.
-CSS: Styling the application (or use libraries like Tailwind or Material-UI if applicable).
+CSS: Styling the application 
 JavaScript: Core logic for task management.
